@@ -1,4 +1,4 @@
-# Little-Lemon - Frontend
+# littlelemon-frontend
 Meta Front-End Developer Capstone Final Project
 
-# Demo: [Little Lemon](https://spartasolopolo.github.io/littlelemon-frontend/)
+# Demo: [littlelemon-frontend](https://spartasolopolo.github.io/littlelemon-frontend/)
